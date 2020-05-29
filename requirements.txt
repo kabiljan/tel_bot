@@ -27,7 +27,7 @@ pyTelegramBotAPI==3.7.1
 python-dateutil==1.5
 PyTweening==1.0.3
 pytz==2020.1
-PyYAML==3.13
+PyYAML==5.1
 redis==3.5.2
 requests==2.7.0
 six==1.14.0
