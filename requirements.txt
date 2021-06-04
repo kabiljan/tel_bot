@@ -5,7 +5,7 @@ certifi==2019.11.28
 chardet==3.0.4
 Currency==0.1.2
 distlib==0.3.0
-Django==3.0.6
+Django==3.1.9
 filelock==3.0.12
 heroku==0.1.4
 idna==2.8
